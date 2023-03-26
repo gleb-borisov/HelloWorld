@@ -16,6 +16,6 @@ if __name__ == '__main__':
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
 
 print('Привет Мир!' * 10)
-print('Борисов')
+print('Глеб Борисов')
 
 print('Еще строка но в python')
